@@ -36,30 +36,7 @@ I’m currently building up my backend skills through personal projects and my a
 
 ---
 
-## 📌 Projects
-
-> I’m currently building up my portfolio. These are the projects I’m working on or planning:
-
-### `laravel-ticket-api` *(in progress)*
-A REST API for managing support tickets.
-
-- Endpoints for creating, listing, updating and closing tickets  
-- Authentication (login / register)  
-- Input validation and clean HTTP responses  
-
-### `ps-backup-tool` *(planned)*
-A PowerShell script to automate directory backups.
-
-- Configurable source and destination  
-- Date-based backup folders  
-- Simple logging
-
-### `java-banking-app` *(planned)*
-A console-based Java application that simulates simple bank accounts.
-
-- Create accounts  
-- Deposit / withdraw / transfer money  
-- Transaction history per account  
+## 📌 Projects 
 
 ---
 
