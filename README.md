@@ -1,111 +1,63 @@
-# 👋 Hi, I'm Rithush
+<div align="center">
 
-I'm a **Software Developer Apprentice at Stadler** with a strong interest in **Java, backend development, networking, cloud technologies and automation**.
+# Hi, I'm Rithush
 
-I enjoy building practical projects that help me turn what I learn during my apprenticeship into real software.
+**Software Developer Apprentice at Stadler · Switzerland**
 
----
+I build Java applications, backend services and tools that make everyday work easier.
 
-## 🧠 About Me
+[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:vijiyarathan.rithush@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush?tab=repositories)
 
-* Software Developer Apprentice at Stadler
-* Completed the ICT foundation year at ZbW
-* Interested in backend architecture, APIs, networking and automation
-* Building applications with Java and TypeScript
-* Exploring cloud services and serverless architectures with AWS
-* Enjoy creating tools that automate repetitive development workflows
+</div>
 
----
+## About
 
-## 🛠 Tech Stack
+Currently completing my software development apprenticeship at Stadler after an ICT foundation year at ZbW. My main interests are **Java, backend architecture, networking and automation**.
 
-### Backend & Application Development
+I enjoy working across the full path from an idea to a usable application, whether that means talking to NFC hardware, building an API or automating a cloud workflow.
 
-* Java
-* PHP / Laravel
-* REST APIs
-* SQL
-* Object-Oriented Programming
-* Multithreading & concurrency
-* TCP networking
+## Tech stack
 
-### TypeScript & Web
+**Application & backend**
 
-* TypeScript
-* JavaScript
-* React
-* HTML
-* CSS
+![Java](https://img.shields.io/badge/Java-181717?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-181717?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-181717?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-181717?style=flat-square&logo=laravel&logoColor=FF2D20)
 
-### Cloud
+**Web & data**
 
-* AWS Lambda
-* Amazon S3
-* Amazon Rekognition
-* AWS CLI
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-181717?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-181717?style=flat-square&logo=css&logoColor=663399)
+![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-181717?style=flat-square&logo=sqlite&logoColor=6DB6E8)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1)
 
-### Scripting & Automation
+**Cloud & tooling**
 
-* Bash
-* PowerShell
+![AWS](https://img.shields.io/badge/AWS-181717?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-181717?style=flat-square)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=FCC624)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-181717?style=flat-square&logo=intellijidea&logoColor=white)
 
-### Tools
+## Selected projects
 
-* Git
-* GitHub
-* Linux
-* IntelliJ IDEA
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[SocialCard](https://github.com/Vijiyarathan-Rithush/socialcard)** | JavaFX desktop app for writing HTTPS links to NFC cards through a PC/SC reader, with capacity checks and write verification. | Java · JavaFX · NFC · Maven |
+| **[sichere-express-actions](https://github.com/Vijiyarathan-Rithush/sichere-express-vorlage)** | Configurable full-stack framework for multi-user applications, with generated APIs and React views, permissions, transactions and conflict handling. | JavaScript · Express · React · SQLite / MySQL |
+| **[DropLink](https://github.com/Vijiyarathan-Rithush/droplink)** | Java networking project exploring TCP client-server communication and separation of domain and infrastructure code. | Java · TCP/IP · Sockets |
+| **[AWS Celebrity Recognition](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)** | Cloud module team project: uploaded images trigger celebrity recognition and JSON results, with deployment scripts and automated workflow tests. | Python · Lambda · S3 · Rekognition · Bash |
+| **[FastFlow](https://github.com/Vijiyarathan-Rithush/FastFlow)** | Bash CLI that streamlines Git workflows with interactive staging, branch protection and guarded history operations. | Bash · Git · Linux |
 
----
+## Current focus
 
-## 📌 Featured Projects
-
-### 🔗 [DropLink](https://github.com/Vijiyarathan-Rithush/droplink)
-
-Java networking project focused on building TCP client and server communication.
-
-The project is also used to explore clean architecture concepts such as domain models, interfaces and separation between domain and infrastructure code.
-
-**Tech:** Java, TCP/IP, Sockets
-
----
-
-### ☁️ [AWS Celebrity Recognition Service](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)
-
-Serverless image analysis pipeline built with AWS.
-
-Images uploaded to an S3 bucket automatically trigger a Lambda function that uses Amazon Rekognition to detect celebrities and stores the results as structured JSON.
-
-The project also includes automated deployment scripts and integration tests for the complete cloud workflow.
-
-**Tech:** AWS Lambda, S3, Rekognition, Python, Bash, AWS CLI
-
----
-
-### ⚡ [FastFlow](https://github.com/Vijiyarathan-Rithush/FastFlow)
-
-A lightweight Bash CLI tool that simplifies common Git workflows while adding safety checks around destructive operations.
-
-FastFlow includes branch protection, commit and push workflows, safe resets, branch management and persistent configuration.
-
-**Tech:** Bash, Git, Linux
-
----
-
-## 🚀 Currently Learning
-
-I'm currently focused on improving my skills in:
-
-* Java application architecture
-* Backend development
-* Automated testing
-* Networking
-* Cloud technologies
-* Clean and maintainable software design
-
----
-
-## 📫 Contact
-
-* Email: **[vijiyarathan.rithush@gmail.com](mailto:vijiyarathan.rithush@gmail.com)**
-* GitHub: **[@Vijiyarathan-Rithush](https://github.com/Vijiyarathan-Rithush)**
+Deepening my understanding of **application architecture**, **automated testing** and **concurrency**, while building maintainable software that connects interfaces, services and real hardware.
