@@ -6,7 +6,7 @@
 
 I build Java applications, backend services and tools that make everyday work easier.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithush-vijiyarathan-09153a445/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithush-vijiyarathan-09153a445/)
 [![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:vijiyarathan.rithush@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush?tab=repositories)
 
