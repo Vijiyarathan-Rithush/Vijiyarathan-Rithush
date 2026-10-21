@@ -4,7 +4,7 @@
 
 **Software Developer Apprentice at Stadler · Switzerland**
 
-I build Java applications, backend services and tools that make everyday work easier.
+I build Java applications, explore hardware integration and automate development workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithush-vijiyarathan-09153a445/)
 [![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:vijiyarathan.rithush@gmail.com)
@@ -14,9 +14,9 @@ I build Java applications, backend services and tools that make everyday work ea
 
 ## About
 
-Currently completing my software development apprenticeship at Stadler after an ICT foundation year at ZbW. My main interests are **Java, backend architecture, networking and automation**.
+I'm a software developer apprentice at Stadler in Switzerland, following an ICT foundation year at ZbW. My main interests are **Java, application architecture, cloud technologies and automation**.
 
-I enjoy working across the full path from an idea to a usable application, whether that means talking to NFC hardware, building an API or automating a cloud workflow.
+My public projects range from encoding NFC messages and communicating with card readers to automating Git workflows and processing images with AWS. I also practise automated testing through C# exercises, with a focus on domain rules and boundary cases.
 
 ## Tech stack
 
@@ -51,14 +51,33 @@ I enjoy working across the full path from an idea to a usable application, wheth
 
 ## Selected projects
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[SocialCard](https://github.com/Vijiyarathan-Rithush/socialcard)** | JavaFX desktop app for writing HTTPS links to NFC cards through a PC/SC reader, with capacity checks and write verification. | Java · JavaFX · NFC · Maven |
-| **[sichere-express-actions](https://github.com/Vijiyarathan-Rithush/sichere-express-vorlage)** | Configurable full-stack framework for multi-user applications, with generated APIs and React views, permissions, transactions and conflict handling. | JavaScript · Express · React · SQLite / MySQL |
-| **[DropLink](https://github.com/Vijiyarathan-Rithush/droplink)** | Java networking project exploring TCP client-server communication and separation of domain and infrastructure code. | Java · TCP/IP · Sockets |
-| **[AWS Celebrity Recognition](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)** | Cloud module team project: uploaded images trigger celebrity recognition and JSON results, with deployment scripts and automated workflow tests. | Python · Lambda · S3 · Rekognition · Bash |
-| **[FastFlow](https://github.com/Vijiyarathan-Rithush/FastFlow)** | Bash CLI that streamlines Git workflows with interactive staging, branch protection and guarded history operations. | Bash · Git · Linux |
+### [SocialCard](https://github.com/Vijiyarathan-Rithush/socialcard)
+
+A Java application for encoding, reading and writing HTTPS links on NFC tags. It communicates with a PC/SC reader through Java Smart Card I/O and APDU commands, validates NDEF messages and verifies writes by reading the data back.
+
+**Java · Maven · NFC / NDEF · Java Smart Card I/O**
+
+### [FastFlow](https://github.com/Vijiyarathan-Rithush/FastFlow)
+
+A Bash CLI for common Git workflows, including commit and push, pull with rebase, branch creation and history operations. It protects `main` by default and asks for confirmation before a hard reset.
+
+**Bash · Git**
+
+### [AWS Celebrity Recognition Service](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)
+
+A team project built during the M346 cloud module. Images uploaded to S3 trigger a Python Lambda function that calls Amazon Rekognition and stores celebrity names and confidence scores as JSON. Shell scripts automate deployment and workflow tests.
+
+**Python · AWS Lambda · S3 · Rekognition · Bash · AWS CLI**
+
+## Testing practice
+
+[**M450 exercises — Bank Account**](https://github.com/Vijiyarathan-Rithush/m450-uebeungen)
+
+A C# / .NET 8 bank account exercise with separate domain, service and xUnit test projects. The tests cover deposits, withdrawals, transfers, account-specific rules, fees and interest calculations, including boundary values.
 
 ## Current focus
 
-Deepening my understanding of **application architecture**, **automated testing** and **concurrency**, while building maintainable software that connects interfaces, services and real hardware.
+- Structuring applications with clear responsibilities and interfaces
+- Working with NFC hardware, binary data formats and validation
+- Writing automated tests for business rules and edge cases
+- Automating repeatable development and cloud workflows
