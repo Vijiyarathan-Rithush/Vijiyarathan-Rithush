@@ -89,16 +89,6 @@ An M346 cloud module team project: an S3 upload triggers a Python Lambda functio
 
 ---
 
-### 🧪 [Bank Account · M450 exercises](https://github.com/Vijiyarathan-Rithush/m450-uebeungen)
-
-**Practising business rules through automated tests.**
-
-A bank account exercise with separate domain, service and test projects. Covers deposits, withdrawals, transfers, fees and interest, with tests for account-specific rules and boundary values.
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![xUnit](https://img.shields.io/badge/xUnit-2563EB?style=flat-square) ![Unit testing](https://img.shields.io/badge/Unit%20testing-181717?style=flat-square)
-
-[![View exercises](https://img.shields.io/badge/View%20exercises-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush/m450-uebeungen)
-
 ## What I'm working on
 
 ![Application architecture](https://img.shields.io/badge/Application%20architecture-2563EB?style=flat-square)
