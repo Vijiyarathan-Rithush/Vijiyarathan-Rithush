@@ -10,6 +10,8 @@ Java applications. Hardware integration. Everyday automation.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijiyarathan.rithush@gmail.com)
 [![Explore my repos](https://img.shields.io/badge/Explore%20my%20repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush/?tab=repositories)
 
+[Portfolio](https://www.rithush.dev/) · [SocialCard demo](https://www.rithush.dev/projects/socialcard/)
+
 </div>
 
 ---
@@ -57,7 +59,7 @@ My projects are where I put that curiosity into practice: build something useful
 
 **HTTPS links, stored on an NFC card.**
 
-A Java application that encodes, reads and writes NDEF messages through a PC/SC reader. Includes URL and message validation, memory-capacity checks and verification by reading written data back.
+A Java 25 library that encodes, reads and writes NDEF messages on NTAG215 tags through a PC/SC reader. Includes URL and message validation, memory-capacity checks and verification by reading written data back.
 
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![NFC / NDEF](https://img.shields.io/badge/NFC%20%2F%20NDEF-2563EB?style=flat-square&logo=nfc&logoColor=white) ![APDU](https://img.shields.io/badge/APDU-181717?style=flat-square)
 
@@ -69,7 +71,7 @@ A Java application that encodes, reads and writes NDEF messages through a PC/SC 
 
 **Less repetition in your Git workflow.**
 
-A Bash CLI for committing, pushing, pulling with rebase and managing branches. Built-in guards protect `main` by default, while hard resets require confirmation.
+A Bash CLI for committing staged changes, pushing, pulling with rebase and managing branches. Built-in guards protect `main` by default, while hard resets require confirmation.
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-181717?style=flat-square)
 
