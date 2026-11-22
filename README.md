@@ -10,7 +10,7 @@ Java applications. Hardware integration. Everyday automation.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijiyarathan.rithush@gmail.com)
 [![Explore my repos](https://img.shields.io/badge/Explore%20my%20repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush/?tab=repositories)
 
-[Portfolio](https://www.rithush.dev/) · [SocialCard demo](https://www.rithush.dev/projects/socialcard/)
+[Portfolio](https://www.rithush.dev/) · [SocialCard library demo](https://www.rithush.dev/projects/socialcard/) · [SocialCard Studio demo](https://www.rithush.dev/projects/socialcard-studio/)
 
 </div>
 
@@ -18,7 +18,7 @@ Java applications. Hardware integration. Everyday automation.
 
 ## About me
 
-I'm a software developer apprentice at **Stadler**, following an ICT foundation year at **ZbW**. I enjoy understanding how software works beyond the interface — from binary NFC messages and card-reader commands to cloud events and repeatable deployment scripts.
+I'm in the third year of my software development apprenticeship at **Stadler**, after an ICT foundation year at **ZbW**. I enjoy understanding how software works beyond the interface — from binary NFC messages and card-reader commands to cloud events and repeatable deployment scripts.
 
 My projects are where I put that curiosity into practice: build something useful, keep responsibilities clear and check the details that make it reliable.
 
@@ -64,6 +64,18 @@ A Java 25 library that encodes, reads and writes NDEF messages on NTAG215 tags t
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![NFC / NDEF](https://img.shields.io/badge/NFC%20%2F%20NDEF-2563EB?style=flat-square&logo=nfc&logoColor=white) ![APDU](https://img.shields.io/badge/APDU-181717?style=flat-square)
 
 [![View project](https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush/socialcard)
+
+---
+
+### 🖥️ [SocialCard Studio](https://github.com/Vijiyarathan-Rithush/socialcard-studio)
+
+**A desktop editor for NFC tags.**
+
+A JavaFX app built on SocialCard. Compose links, text, contacts and Wi-Fi records, preview how much space they use and write them to NTAG215 tags with a compatible PC/SC reader.
+
+![JavaFX](https://img.shields.io/badge/JavaFX-181717?style=flat-square) ![NFC](https://img.shields.io/badge/NFC-2563EB?style=flat-square&logo=nfc&logoColor=white)
+
+[Watch the demo](https://www.rithush.dev/projects/socialcard-studio/) · [![Download for Windows x64](https://img.shields.io/badge/Download%20for%20Windows-x64-ff743d?style=flat-square)](https://www.rithush.dev/downloads/socialcard-studio-windows-x64.zip)
 
 ---
 
