@@ -91,18 +91,6 @@ A Bash CLI for committing staged changes, pushing, pulling with rebase and manag
 
 ---
 
-### ☁️ [AWS Celebrity Recognition](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)
-
-**From an image upload to structured recognition results.**
-
-An M346 cloud module team project: an S3 upload triggers a Python Lambda function, Amazon Rekognition identifies celebrities and the results return to S3 as JSON. Deployment scripts and automated workflow tests connect the pieces.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square) ![Rekognition](https://img.shields.io/badge/Rekognition-8C4FFF?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-[![View project](https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijiyarathan-Rithush/aws-celebrity-recognition-service)
-
----
-
 ## What I'm working on
 
 ![Application architecture](https://img.shields.io/badge/Application%20architecture-2563EB?style=flat-square)
